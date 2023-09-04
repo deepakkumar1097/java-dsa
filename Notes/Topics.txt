@@ -1,0 +1,32 @@
+*Recursion
+*Big O Notation
+
+Data Structure
+
+*Arrays - One dimensional & Two dimensional
+*LinkedList - Singly LL, Double LL, Circular Single LL, Circular Double LL
+*Stack and Queue
+*Tree / Binary Tree - PreOrder Traversal, InOrder Traversal, PostOrder Traversal, LevelOrder Traversal
+*Binary Search Tree  
+*AVL Tree - Left Left Condition, Left Right Condition, Right Right Condition, Rigth Left Condition
+*Binary Heap
+*Trie
+*Hashing
+
+Algorithms
+
+*Sort Algorithms- Buddle Sort, Selction Sort, Insertion Sort, Bucket Sort, Merge Sort, Quick Sort, Heap Sort
+*Search Algorithms- Binary Search, Linear Search
+*Graph Algorithms- DijKstra's Algorithm, Bellman Ford Algorithm, Floyd Warshall Algorithm
+	*Type- Minimum Spanning Tree (Prim's Algorithm, Kruskal's Algorithm)
+	*Graph DS- Breadth First Search, Depth First Search, Topological Sort, Single Source Shortest Path Problem, All Pair Shortest Path Problem 
+*Greedy Algorithms- Activity Selection Problem, Coin Change Problem
+*Divide and Conquer Algorithms
+
+Dynamic Programming  
+
+*Optimal Substructure
+*Overlapping Subproblems
+*Top Down - memoization
+*Bottom Up - Tabulation
+ 

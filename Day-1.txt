@@ -1,0 +1,50 @@
+What is DS?
+   Data Structure are different ways of organizing data on your computer, 
+that can be used effectively,
+
+Example:
+
+Movie Tickets - Queue
+Books on Table - Stack
+
+What is Algorithms?
+	Set of instruction/steps to perform/complete a task
+
+Example:
+
+Going to office
+Buying Coffee in Starbucks
+
+Types of Data Structure
+
+*Primitive(DS that are built in the programming language itself) - Integer, Float, Charcter, Boolean
+*Non Primitive(User defined DS) - Divide into two
+	+Linear -  items are arranged in memory in linear, sequential manner and they can be either static or  dynamic
+		*Static - Array
+		*Dynamic - LL, Stack, Queue
+	+Non Linear - Data is connected to several other items, they are not organized sequentially - Tree, Graph
+
+Types of Algorithms
+
+*Simple recursive Algorithms
+*Divide and conquer 
+*Dynamic Programming
+*Greedy
+*Brute Force
+*Ramdomized
+
+Recursion - a way of solving a problem by having a function calling itself
+	+Properties-
+	*Performing the same operation multiple times with different inputs
+	*In every step we try smaller inputs to make the problem smaller
+	*Base condition is needed to stop the recursion, otherwise infinite loop will occur
+
+When to choose recursion?
+*Design an algorithm to compute nth...
+*Write code to list the n...
+*Implement a method to compute all..
+
+Writing Recursion in 3 steps
+*1- Recursive case - the flow
+*2- Base case - the stopping criterion
+*3- Unintentional case - the constraint
